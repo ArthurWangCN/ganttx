@@ -1,4 +1,4 @@
-# dhtmlx-gantt
+# gantt
 
 #### 介绍
 a dhtmx-gantt component based on vue
@@ -12,7 +12,7 @@ DHTMLX-GANTT + Vue.js
 1.  假设你已经有了一个vue项目
 2.  安装依赖dhtmx-gantt：
 
-       `yarn add dhtmlx-gantt --save (for yarn) ` 或
+       `yarn add dhtmlx-gantt --save (for yarn)`  或
        
        `npm install dhtmlx-gantt --save (for npm)`
 3.  拷贝 Ganttx.vue
